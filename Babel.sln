@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Babel", "Babel\Babel\Babel.csproj", "{D7694D04-E327-47D5-96C3-9F6F76ECB1AA}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "BabelContent", "Babel\BabelContent\BabelContent.contentproj", "{B75FDC21-C4C1-4A60-965F-12C3AC2B4D14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7694D04-E327-47D5-96C3-9F6F76ECB1AA}.Debug|x86.ActiveCfg = Debug|x86
+		{D7694D04-E327-47D5-96C3-9F6F76ECB1AA}.Debug|x86.Build.0 = Debug|x86
+		{D7694D04-E327-47D5-96C3-9F6F76ECB1AA}.Release|x86.ActiveCfg = Release|x86
+		{D7694D04-E327-47D5-96C3-9F6F76ECB1AA}.Release|x86.Build.0 = Release|x86
+		{B75FDC21-C4C1-4A60-965F-12C3AC2B4D14}.Debug|x86.ActiveCfg = Debug|x86
+		{B75FDC21-C4C1-4A60-965F-12C3AC2B4D14}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
